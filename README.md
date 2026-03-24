@@ -1,11 +1,10 @@
 # Shoes Landing Page
 
-Simple responsive landing page for a shoe brand.
+Premium ecommerce-style landing page for women shoes.
 
-## Run locally
+## Notes
+- Uses royalty-free stock images from Unsplash (not copied from third-party stores).
+- Inspired by modern product detail layouts.
 
-Open `index.html` in your browser.
-
-## Deploy
-
-Configured for GitHub Pages from `main` branch root.
+## Live
+Deployed via GitHub Pages from `main` branch root.
